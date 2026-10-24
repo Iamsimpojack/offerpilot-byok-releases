@@ -1,6 +1,6 @@
 # Install and start using PM Interview Copilot
 
-**Release qualification is still in progress. No installer is published here yet.** This guide is for the upcoming personal BYOK desktop edition. Wait for a qualified release; the older prod-v1.8.2 app is a different edition.
+**[Apple-silicon Mac preview available](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.3-preview.1).** It passed signing, notarization, ticket validation and package checks; real-device/audio and full desktop qualification remain outstanding. Purchases remain closed. The older prod-v1.8.2 app is a different edition.
 
 ## 1. Get access
 
@@ -10,9 +10,9 @@ Create your own [app account](https://app.pminterviewcopilot.com/signup) if you 
 
 ## 2. Download and install
 
-When available, open [Releases](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases) or the owner's hosted app download page. Read that release's tested platforms and setup notes.
+Open the [Mac preview release](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.3-preview.1) and download the DMG under Assets. The hosted download page is reserved for qualified stable releases and may still report no installer. Read the preview limitations before installing.
 
-- **Windows x64:** download and run the signed setup EXE.
+- **Windows x64:** no public installer yet. An unsigned preview candidate exists privately; Windows security policy may warn or block unsigned apps.
 - **Apple-silicon Mac:** download the DMG, open it and move the app into Applications. The release targets M-series Macs on macOS 13 or newer.
 - Intel Mac and Linux are not currently qualified release targets.
 
