@@ -7,7 +7,7 @@ For installation, complimentary access and API keys, start with [the friend setu
 ## Your first session
 
 1. Sign in and choose the role you are preparing for. Add the target job and company so answers use the right context.
-2. Open **Materials / Sources** and upload or paste your resume, job description and preparation notes. Give each material its correct purpose. Wait for the save/parse result; an original file can be saved even when readable text could not be extracted.
+2. Open **My stories & materials** and upload or paste your resume, job description and preparation notes. Give each material its correct purpose. Wait for the save/parse result; an original file can be saved even when readable text could not be extracted.
 3. Organize personal notes into story drafts when useful. Review the extracted facts before confirming a story. Uploading and confirming a structured story are separate actions; original notes can still inform practice.
 4. For an incomplete story, use **Add this detail** to answer a focused question, **Skip for now**, or **See expanded example**. Suggested example details are not automatically added to your confirmed story.
 5. Choose a behavioral practice question, such as “Tell me about a time you disagreed with a stakeholder.” Read the example, answer in your own words, and try a follow-up.
