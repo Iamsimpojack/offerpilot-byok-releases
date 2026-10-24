@@ -38,7 +38,7 @@ Keys stay in desktop secure storage. Never send them to the owner, paste them in
 
 ## 5. Try your first session
 
-1. Select a role and add your resume, target job and a few story notes in Materials / Sources.
+1. Select a role and add your resume, target job and a few story notes in My stories & materials.
 2. Wait for the save/parse result. Review story drafts before confirming personal facts.
 3. Try one behavioral practice question and a follow-up.
 4. For voice, finish Live preflight and grant the requested microphone/system-audio permissions. Check the transcript before relying on generated answers.
