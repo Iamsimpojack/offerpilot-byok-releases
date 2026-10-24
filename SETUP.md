@@ -6,7 +6,7 @@
 
 For complimentary access, tell the owner which email you will use. They grant access to that email and send you the download link. You do not need a gift code, GitHub account, private repository invitation or source code.
 
-Use your own account. Verify the same email that received access. A gift covers the app license; it does not pay your AI or transcription provider bills.
+Create your own [app account](https://app.pminterviewcopilot.com/signup) if you do not already have one. Verify the same email that received access, then sign in. A gift covers the app license; it does not pay your AI or transcription provider bills.
 
 ## 2. Download and install
 

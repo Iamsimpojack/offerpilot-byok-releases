@@ -2,7 +2,7 @@
 
 This public repository contains installers, update files, release notes and user instructions. Application source is private. You do not need a GitHub account to download a public release.
 
-**Release qualification is in progress. No installer is published here yet; new personal-license purchases remain closed.**
+**No installer is published here yet; purchases remain closed.** A Mac friend preview is being prepared. Signature and notarization checks have passed, but Apple ticket validation has encountered repeated network failures. Windows can be built as an explicitly unsigned preview; this can warn or be blocked by Windows security policy.
 
 ## Start here
 
