@@ -1,6 +1,6 @@
 # Install and start using PM Interview Copilot
 
-**[Download the 1.8.4 friend preview](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.4-preview.1).** Purchases remain closed. Clean-machine installation, real-device audio and installed updates still need qualification.
+**[Download the 1.8.5 friend preview](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/v1.8.5-preview.1).** Purchases remain closed. Clean-machine installation, real-device audio and installed updates still need qualification.
 
 ## 1. Get access
 
@@ -10,7 +10,7 @@ Create your own [app account](https://app.pminterviewcopilot.com/signup) using a
 
 ## 2. Download and install
 
-Open the [friend preview release](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.4-preview.1) and choose the installer for your computer under Assets. The hosted download page is reserved for qualified stable releases and may still report no installer. Read the preview limitations before installing.
+Open the [friend preview release](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/v1.8.5-preview.1) and choose the installer for your computer under Assets. The hosted app also offers these friend-preview installers after sign-in. Read the preview limitations before installing.
 
 - **Windows x64:** choose the x64 EXE. It is unsigned and Windows may block installation; leave security protections enabled.
 - **Apple-silicon Mac:** download the DMG, open it and move the app into Applications. The release targets M-series Macs on macOS 13 or newer.
@@ -46,11 +46,16 @@ Keys stay in desktop secure storage. Never send them to the owner, paste them in
 
 Continue with the [user guide](USER_GUIDE.md) for story selection, expanded practice examples, case frameworks, Live and saved data.
 
+
+## Automatic updates
+
+Install the 1.8.5 preview manually once to join automatic preview updates. After that, the app checks when it starts and every four hours while open. New versions download in the background. An **Update Ready** message offers **Restart Now** or **Later**; it will not force an immediate restart. If you choose Later, the update installs when you normally quit. Finish and save your current work before restarting.
+
 ## Troubleshooting
 
 | Problem | What to check |
 | --- | --- |
-| No installer available | Use the direct friend-preview release link above. The stable download page may have no installer. |
+| No installer available | Use the direct friend-preview release link above. The hosted app offers the same preview after sign-in. |
 | Access not found | Verified email matches the gift; ask the owner to check the grant, then Refresh license. |
 | Key test fails | Correct provider, valid key, API billing and quota. |
 | No audio | Selected source, operating-system permissions and Live preflight. |
