@@ -1,18 +1,18 @@
 # Install and start using PM Interview Copilot
 
-**[Apple-silicon Mac preview available](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.3-preview.1).** It passed signing, notarization, ticket validation and package checks; real-device/audio and full desktop qualification remain outstanding. Purchases remain closed. The older prod-v1.8.2 app is a different edition.
+**[Download the 1.8.4 friend preview](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.4-preview.1).** Purchases remain closed. Clean-machine installation, real-device audio and installed updates still need qualification.
 
 ## 1. Get access
 
 For complimentary access, tell the owner which email you will use. They grant access to that email and send you the download link. You do not need a gift code, GitHub account, private repository invitation or source code.
 
-Create your own [app account](https://app.pminterviewcopilot.com/signup) if you do not already have one. Verify the same email that received access, then sign in. A gift covers the app license; it does not pay your AI or transcription provider bills.
+Create your own [app account](https://app.pminterviewcopilot.com/signup) using a password you choose or Google if you do not already have an account. Verify the same email that received access, then sign in. A gift covers the app license; it does not pay your AI or transcription provider bills.
 
 ## 2. Download and install
 
-Open the [Mac preview release](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.3-preview.1) and download the DMG under Assets. The hosted download page is reserved for qualified stable releases and may still report no installer. Read the preview limitations before installing.
+Open the [friend preview release](https://github.com/Iamsimpojack/offerpilot-byok-releases/releases/tag/byok-v1.8.4-preview.1) and choose the installer for your computer under Assets. The hosted download page is reserved for qualified stable releases and may still report no installer. Read the preview limitations before installing.
 
-- **Windows x64:** no public installer yet. An unsigned preview candidate exists privately; Windows security policy may warn or block unsigned apps.
+- **Windows x64:** choose the x64 EXE. It is unsigned and Windows may block installation; leave security protections enabled.
 - **Apple-silicon Mac:** download the DMG, open it and move the app into Applications. The release targets M-series Macs on macOS 13 or newer.
 - Intel Mac and Linux are not currently qualified release targets.
 
@@ -50,7 +50,7 @@ Continue with the [user guide](USER_GUIDE.md) for story selection, expanded prac
 
 | Problem | What to check |
 | --- | --- |
-| No installer available | Release qualification/publication is not complete. |
+| No installer available | Use the direct friend-preview release link above. The stable download page may have no installer. |
 | Access not found | Verified email matches the gift; ask the owner to check the grant, then Refresh license. |
 | Key test fails | Correct provider, valid key, API billing and quota. |
 | No audio | Selected source, operating-system permissions and Live preflight. |
